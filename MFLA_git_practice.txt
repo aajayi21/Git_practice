@@ -1,1 +1,6 @@
 hello world I'm happy! Git is cool!
+
+Questions: How do I add an image? 
+Am I alive? 
+What is the answer? 
+How do I get rich? 
