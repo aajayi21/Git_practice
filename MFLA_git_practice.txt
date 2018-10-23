@@ -4,3 +4,5 @@ Questions: How do I add an image?
 Am I alive? 
 What is the answer? 
 How do I get rich? 
+
+What is next for me, to make a basic website. 
