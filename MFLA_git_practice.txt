@@ -1,1 +1,1 @@
-hello world I'm happy!
+hello world I'm happy! Git is cool!
